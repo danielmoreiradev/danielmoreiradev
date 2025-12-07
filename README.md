@@ -1,4 +1,4 @@
-## ## ⚡ Daniel Moreira - Dev. Frontend
+## ⚡ Daniel Moreira - Dev. Frontend
 
 
 <p align="left">
