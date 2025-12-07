@@ -1,16 +1,25 @@
-## Hi there 👋
+## ## ⚡ Daniel Moreira - Dev. Frontend
 
-<!--
-**devdanielmoreira/devdanielmoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left">
+Desenvolvedor frontend focado em criar interfaces claras, acessíveis e fáceis de manter. Gosto de transformar ideias em experiências digitais fluidas e aproveitar tecnologias modernas da web para resolver problemas de forma prática e inteligente. Meu objetivo é desenvolver soluções que façam sentido no uso real, unindo boas práticas, organização e eficiência.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tecnologias e Ferramentas
+<div align="left">
+  
+[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,wordpress,figma,cloudflare)](https://skillicons.dev)
+
+</div>
+
+---
+
+### 📫 Como me encontrar
+<div align="left">
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danielmoreira.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danieldev)
+
+</div>
