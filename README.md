@@ -10,7 +10,7 @@ Desenvolvedor frontend focado em criar interfaces claras, acessíveis e fáceis 
 ### 🛠 Tecnologias e Ferramentas
 <div align="left">
   
-[![Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,py,wordpress,figma,cloudflare)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,wordpress,figma,git)](https://skillicons.dev)
 
 </div>
 
