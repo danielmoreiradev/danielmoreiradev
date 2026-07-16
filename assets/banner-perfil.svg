@@ -1,0 +1,63 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fundo" x1="80" y1="20" x2="1210" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.52" stop-color="#0B1628"/>
+      <stop offset="1" stop-color="#111A32"/>
+    </linearGradient>
+    <linearGradient id="destaque" x1="145" y1="94" x2="840" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+    <linearGradient id="cartao" x1="902" y1="69" x2="1174" y2="296" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#13223B"/>
+      <stop offset="1" stop-color="#0D172A"/>
+    </linearGradient>
+    <filter id="brilho" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="24"/>
+    </filter>
+    <pattern id="grade" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#94A3B8" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="360" rx="28" fill="url(#fundo)"/>
+  <rect width="1280" height="360" rx="28" fill="url(#grade)"/>
+
+  <circle cx="166" cy="52" r="120" fill="#0EA5E9" fill-opacity="0.13" filter="url(#brilho)"/>
+  <circle cx="1074" cy="312" r="150" fill="#8B5CF6" fill-opacity="0.14" filter="url(#brilho)"/>
+
+  <g opacity="0.7">
+    <circle cx="52" cy="44" r="5" fill="#FB7185"/>
+    <circle cx="72" cy="44" r="5" fill="#FBBF24"/>
+    <circle cx="92" cy="44" r="5" fill="#34D399"/>
+  </g>
+
+  <text x="88" y="126" fill="#7DD3FC" font-size="24" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-weight="600">&lt;Olá, mundo! /&gt;</text>
+  <text x="84" y="194" fill="#F8FAFC" font-size="58" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800" letter-spacing="-1.5">Daniel Moreira</text>
+  <rect x="86" y="214" width="660" height="4" rx="2" fill="url(#destaque)"/>
+  <text x="88" y="258" fill="#CBD5E1" font-size="26" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="600">Desenvolvedor Front-end &amp; Web Designer</text>
+  <text x="88" y="301" fill="#94A3B8" font-size="18" font-family="Inter, Segoe UI, Arial, sans-serif">WordPress • JavaScript • PHP • UI/UX • SEO técnico</text>
+
+  <rect x="884" y="62" width="310" height="238" rx="24" fill="url(#cartao)" stroke="#334155" stroke-width="1.5"/>
+  <rect x="908" y="86" width="262" height="38" rx="10" fill="#08111F" stroke="#26364D"/>
+  <circle cx="930" cy="105" r="5" fill="#22C55E"/>
+  <text x="944" y="111" fill="#94A3B8" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">portfolio.ts</text>
+
+  <text x="910" y="159" fill="#64748B" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">01</text>
+  <text x="948" y="159" fill="#C084FC" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">const</text>
+  <text x="1000" y="159" fill="#7DD3FC" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">objetivo</text>
+  <text x="1066" y="159" fill="#CBD5E1" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">=</text>
+
+  <text x="910" y="191" fill="#64748B" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">02</text>
+  <text x="948" y="191" fill="#FDE68A" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">&quot;resolver problemas&quot;</text>
+
+  <text x="910" y="233" fill="#64748B" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">03</text>
+  <text x="948" y="233" fill="#CBD5E1" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">com</text>
+  <text x="992" y="233" fill="#7DD3FC" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">design</text>
+  <text x="1050" y="233" fill="#CBD5E1" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">+</text>
+  <text x="1071" y="233" fill="#C084FC" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">código</text>
+
+  <rect x="908" y="260" width="142" height="24" rx="12" fill="#082F49"/>
+  <text x="927" y="277" fill="#7DD3FC" font-size="12" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">DISPONÍVEL PARA PROJETOS</text>
+</svg>
