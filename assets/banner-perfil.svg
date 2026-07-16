@@ -54,9 +54,9 @@
 
   <text x="910" y="233" fill="#64748B" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">03</text>
   <text x="948" y="233" fill="#CBD5E1" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">com</text>
-  <text x="983" y="233" fill="#7DD3FC" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">design</text>
-  <text x="1038" y="233" fill="#CBD5E1" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">+</text>
-  <text x="1057" y="233" fill="#C084FC" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">código</text>
+  <text x="992" y="233" fill="#7DD3FC" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">design</text>
+  <text x="1050" y="233" fill="#CBD5E1" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">+</text>
+  <text x="1071" y="233" fill="#C084FC" font-size="16" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">código</text>
 
   <rect x="908" y="260" width="142" height="24" rx="12" fill="#082F49"/>
   <text x="927" y="277" fill="#7DD3FC" font-size="12" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700">DISPONÍVEL PARA PROJETOS</text>
