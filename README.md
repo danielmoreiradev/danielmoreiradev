@@ -27,8 +27,8 @@
 ## 📊 Painel do GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=danielmoreiradev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br&rank_icon=github" alt="Estatísticas do perfil de Daniel Moreira">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielmoreiradev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=pt-br" alt="Linguagens mais usadas por Daniel Moreira">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danielmoreiradev&theme=tokyonight" alt="Estatísticas do perfil de Daniel Moreira">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danielmoreiradev&theme=tokyonight" alt="Linguagens mais usadas por Daniel Moreira">
 </p>
 
 <p align="center">
