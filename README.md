@@ -21,7 +21,7 @@
 ## 🛠️ Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,react,wordpress,tailwind,figma,git,github,supabase,vscode&perline=12" alt="HTML, CSS, JavaScript, PHP, React, WordPress, Tailwind CSS, Figma, Git, GitHub, Supabase e Visual Studio Code">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,wordpress,tailwind,figma,git,github,supabase,vscode&perline=12" alt="HTML, CSS, JavaScript, WordPress, Tailwind CSS, Figma, Git, GitHub, Supabase e Visual Studio Code">
 </p>
 
 ## 📊 Painel do GitHub
