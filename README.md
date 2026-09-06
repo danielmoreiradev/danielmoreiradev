@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-perfil.svg" alt="Daniel Moreira — Desenvolvedor Front-end e Web Designer" width="100%">
+  <img src="./assets/banner-perfil.svg" alt="Daniel Moreira — Desenvolvedor" width="100%">
 </p>
 
 <p align="center">
@@ -15,13 +15,13 @@
 </p>
 
 <p align="center">
-  Crio <strong>landing pages, sites WordPress e ferramentas web</strong> com foco em visual, desempenho, responsividade e experiência do usuário.
+  Desenvolvedor Front-end e estudante de Análise e Desenvolvimento de Sistemas. Experiência prática em HTML, CSS, JavaScript, MySQL e Git.
 </p>
 
 ## 🛠️ Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,wordpress,tailwind,figma,git,github,supabase,vscode&perline=12" alt="HTML, CSS, JavaScript, WordPress, Tailwind CSS, Figma, Git, GitHub, Supabase e Visual Studio Code">
+  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,figma,git,github,mysql,vscode&perline=12" alt="HTML, CSS, JavaScript, MySQL, Figma, Git, GitHub, e Visual Studio Code">
 </p>
 
 ## 📊 Painel do GitHub
@@ -36,5 +36,5 @@
 </p>
 
 <p align="center">
-  <sub>Desenvolvimento front-end, WordPress e interfaces feitas para funcionar bem de verdade.</sub>
+  <sub>Desenvolvimento front-end, sites e soluções para a web.</sub>
 </p>
